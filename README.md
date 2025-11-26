@@ -46,13 +46,13 @@ Download the dataset and place it inside the data/ directory.
 ## 🛠️ Technologies Used
 
 Python <br>
-TensorFlow / Keras
-NumPy, Pandas
-Matplotlib, Seaborn
-OpenCV / PIL
-Scikit-learn
-Pickle / Joblib
-Jupyter Notebook
+TensorFlow / Keras <br>
+NumPy, Pandas <br> 
+Matplotlib, Seaborn <br>
+OpenCV / PIL <br> 
+Scikit-learn <br> 
+Pickle / Joblib <br> 
+Jupyter Notebook <br> 
 
 ---
 
@@ -60,28 +60,28 @@ Jupyter Notebook
 
 Traditional encoder–decoder models compress all information into a single vector. In contrast, Attention Mechanisms allow the network to:
 
-✅ Focus on relevant parts of the input
-✅ Improve long-sequence handling
-✅ Generate more meaningful captions
-✅ Improve performance significantly
-
-This is a critical technique used in:
-
-1] Transformers
-2] Machine translation
-3] Image captioning
-4] Speech recognition
-5] Large Language Models
+✅ Focus on relevant parts of the input <br> 
+✅ Improve long-sequence handling <br> 
+✅ Generate more meaningful captions <br> 
+✅ Improve performance significantly <br> 
+<br>
+This is a critical technique used in: <br> 
+<br>
+1] Transformers <br> 
+2] Machine translation <br> 
+3] Image captioning <br> 
+4] Speech recognition <br> 
+5] Large Language Models <br> 
 
 ---
 
 ## 🔮 Future Improvements
-
-1] Add Bahdanau or Luong Attention
-2] Implement Self-Attention / Transformer
-3] Use ResNet / EfficientNet as image encoder
-4] Add Beam Search decoding
-5] Train on MS COCO dataset
+<br> 
+1] Add Bahdanau or Luong Attention <br> 
+2] Implement Self-Attention / Transformer <br> 
+3] Use ResNet / EfficientNet as image encoder <br> 
+4] Add Beam Search decoding <br> 
+5] Train on MS COCO dataset <br>
 
 ---
 
