@@ -45,7 +45,7 @@ Download the dataset and place it inside the data/ directory.
 
 ## 🛠️ Technologies Used
 
-Python
+Python <br>
 TensorFlow / Keras
 NumPy, Pandas
 Matplotlib, Seaborn
