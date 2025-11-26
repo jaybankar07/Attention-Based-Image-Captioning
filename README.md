@@ -67,21 +67,21 @@ Traditional encoder–decoder models compress all information into a single vect
 
 This is a critical technique used in:
 
-Transformers
-Machine translation
-Image captioning
-Speech recognition
-Large Language Models
+1] Transformers
+2] Machine translation
+3] Image captioning
+4] Speech recognition
+5] Large Language Models
 
 ---
 
 ## 🔮 Future Improvements
 
-Add Bahdanau or Luong Attention
-Implement Self-Attention / Transformer
-Use ResNet / EfficientNet as image encoder
-Add Beam Search decoding
-Train on MS COCO dataset
+1] Add Bahdanau or Luong Attention
+2] Implement Self-Attention / Transformer
+3] Use ResNet / EfficientNet as image encoder
+4] Add Beam Search decoding
+5] Train on MS COCO dataset
 
 ---
 
